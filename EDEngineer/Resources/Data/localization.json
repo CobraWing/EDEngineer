@@ -3423,7 +3423,7 @@
     },
     "Group ingredients?": {
       "es": null,
-      "pt": null,
+      "pt": "Ingredientes do grupo?",
       "de": "Gruppenzutaten?",
       "fr": "Groupe d'ingrédients ?",
       "ru": "Группировать ингредиенты?",
@@ -3431,7 +3431,7 @@
     },
     "Unknown": {
       "es": null,
-      "pt": null,
+      "pt": "Desconhecido",
       "de": "Unbekannt",
       "fr": "Inconnu",
       "ru": "Неизвестные",
@@ -3439,7 +3439,7 @@
     },
     "Carrying ": {
       "es": null,
-      "pt": null,
+      "pt": "Carregando ",
       "de": null,
       "fr": "Capacité",
       "ru": "В наличии ",
@@ -3447,7 +3447,7 @@
     },
     "Emission Data": {
       "es": null,
-      "pt": null,
+      "pt": "Dados de Emissão",
       "de": "Emissionsdaten",
       "fr": "Données d'émission",
       "ru": "Данные об излучениях",
@@ -3495,7 +3495,7 @@
     },
     "Category 1": {
       "es": null,
-      "pt": null,
+      "pt": "Categoria 1",
       "de": "Kategorie 1",
       "fr": "Matériaux bruts - Catégorie 1",
       "ru": "Категория 1",
@@ -3503,7 +3503,7 @@
     },
     "Category 2": {
       "es": null,
-      "pt": null,
+      "pt": "Categoria 2",
       "de": "Kategorie 2",
       "fr": "Matériaux bruts - Catégorie 2",
       "ru": "Категория 2",
@@ -3511,7 +3511,7 @@
     },
     "Category 3": {
       "es": null,
-      "pt": null,
+      "pt": "Categoria 3",
       "de": "Kategorie 3",
       "fr": "Matériaux bruts - Catégorie 3",
       "ru": "Категория 3",
@@ -3519,7 +3519,7 @@
     },
     "Category 4": {
       "es": null,
-      "pt": null,
+      "pt": "Categoria 4",
       "de": "Kategorie 4",
       "fr": "Matériaux bruts - Catégorie 4",
       "ru": "Категория 4",
@@ -3527,7 +3527,7 @@
     },
     "Category 5": {
       "es": null,
-      "pt": null,
+      "pt": "Categoria 5",
       "de": "Kategorie 5",
       "fr": "Matériaux bruts - Catégorie 5",
       "ru": "Категория 5",
@@ -3535,7 +3535,7 @@
     },
     "Category 6": {
       "es": null,
-      "pt": null,
+      "pt": "Categoria 6",
       "de": "Kategorie 6",
       "fr": "Matériaux bruts - Catégorie 6",
       "ru": "Категория 6",
@@ -3543,7 +3543,7 @@
     },
     "Category 7": {
       "es": null,
-      "pt": null,
+      "pt": "Categoria 7",
       "de": "Kategorie 7",
       "fr": "Matériaux bruts - Catégorie 7",
       "ru": "Категория 7",
@@ -3551,7 +3551,7 @@
     },
     "Chemical": {
       "es": null,
-      "pt": null,
+      "pt": "Químico",
       "de": "Chemikalien",
       "fr": "Produits chimiques",
       "ru": "Химикаты",
@@ -3559,7 +3559,7 @@
     },
     "Thermic": {
       "es": null,
-      "pt": null,
+      "pt": "Térmico",
       "de": "Thermisch",
       "fr": "Thermiques",
       "ru": "Термические сплавы",
@@ -3567,7 +3567,7 @@
     },
     "Heat": {
       "es": null,
-      "pt": null,
+      "pt": "Calor",
       "de": "Hitze",
       "fr": "Chaleur",
       "ru": "Теплообмен",
@@ -3575,7 +3575,7 @@
     },
     "Conductive": {
       "es": null,
-      "pt": null,
+      "pt": "Condutor",
       "de": "Leiter",
       "fr": "Conducteurs",
       "ru": "Проводники",
@@ -3583,7 +3583,7 @@
     },
     "Capacitors": {
       "es": null,
-      "pt": null,
+      "pt": "Capacitores",
       "de": "Kondensatoren",
       "fr": "Condensateurs",
       "ru": "Конденсаторы",
@@ -3591,7 +3591,7 @@
     },
     "Shielding": {
       "es": null,
-      "pt": null,
+      "pt": "Proteção",
       "de": "Abschirmung",
       "fr": "Protection",
       "ru": "Защита",
@@ -3599,7 +3599,7 @@
     },
     "Composite": {
       "es": null,
-      "pt": null,
+      "pt": "Composto",
       "de": "Komposite",
       "fr": "Composites",
       "ru": "Композиты",
@@ -3607,7 +3607,7 @@
     },
     "Crystals": {
       "es": null,
-      "pt": null,
+      "pt": "Cristais",
       "de": "Kristalle",
       "fr": "Cristaux",
       "ru": "Кристаллы",
@@ -3615,7 +3615,7 @@
     },
     "Alloys": {
       "es": null,
-      "pt": null,
+      "pt": "Ligas",
       "de": "Legierungen",
       "fr": "Alliages",
       "ru": "Сплавы",
@@ -3703,7 +3703,7 @@
     },
     "Human": {
       "es": null,
-      "pt": null,
+      "pt": "Humano",
       "de": "Menschlich",
       "fr": null,
       "ru": null,
@@ -3727,7 +3727,7 @@
     },
     "Guardian": {
       "es": null,
-      "pt": null,
+      "pt": "Guardian",
       "de": "Guardian",
       "fr": null,
       "ru": null,
@@ -4127,7 +4127,7 @@
     },
     "@Technology": {
       "es": null,
-      "pt": null,
+      "pt": "@Tecnologia",
       "de": null,
       "fr": null,
       "ru": "@Технология",
@@ -4135,7 +4135,7 @@
     },
     "Module": {
       "es": null,
-      "pt": null,
+      "pt": "Módulo",
       "de": null,
       "fr": null,
       "ru": "Модули",
@@ -4143,7 +4143,7 @@
     },
     "Synthesis": {
       "es": null,
-      "pt": null,
+      "pt": "Síntese",
       "de": null,
       "fr": null,
       "ru": "Синтез",
@@ -4151,7 +4151,7 @@
     },
     "Experimental": {
       "es": null,
-      "pt": null,
+      "pt": "Experimental",
       "de": null,
       "fr": null,
       "ru": "Экспериментальные",
@@ -4159,7 +4159,7 @@
     },
     "Technology": {
       "es": null,
-      "pt": null,
+      "pt": "Tecnologia",
       "de": null,
       "fr": null,
       "ru": "Технологии",
@@ -4167,7 +4167,7 @@
     },
     "Ancient/Guardian ruins": {
       "es": null,
-      "pt": null,
+      "pt": "Ruínas Antigas/Guardian",
       "de": null,
       "fr": null,
       "ru": "Руины Стражей",
@@ -4175,7 +4175,7 @@
     },
     "EDEngineer will try to remove blueprints from your shopping list if you craft them in game": {
       "es": null,
-      "pt": null,
+      "pt": "O EDEngineer tentará remover blueprints da sua lista de compras se você os criar no jogo",
       "de": null,
       "fr": null,
       "ru": "EDEngineer попытается удалять чертежи из списка покупок при создании их в игре",
@@ -4359,7 +4359,7 @@
     },
     "Thargoid": {
       "es": null,
-      "pt": null,
+      "pt": "Thargoid",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4375,7 +4375,7 @@
     },
     "System:": {
 	    "es": null,
-	    "pt": null,
+	    "pt": "Sistema:",
 	    "de": null,
 	    "fr": null,
 	    "ru": null,
